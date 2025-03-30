@@ -1,0 +1,25 @@
+# Core dependencies
+numpy>=1.19.0
+pandas>=1.1.0
+matplotlib>=3.3.0
+opencv-python>=4.4.0
+tqdm>=4.48.0
+scipy>=1.5.0
+
+# Deep learning dependencies
+tensorflow>=2.4.0
+coremltools>=5.0.0
+torch>=1.7.0
+torchvision>=0.8.1
+
+# Computer vision and object detection
+cvlib>=0.2.6
+Pillow>=8.0.0
+
+# Tracking algorithms
+filterpy>=1.4.5
+scikit-learn>=0.23.0
+scikit-image>=0.17.2
+
+# Optional: For DeepSORT and DETR when using those models
+timm>=0.4.12 
